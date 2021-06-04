@@ -11,7 +11,9 @@ keywords: LeetCode, Two Pointers
 
 [TOC]
 
-## 167\. [Two Sum II - Input array is sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+## 167\. Two Sum II - Input array is sorted (Easy)
+
+[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 Given an array of integers `numbers` that is already sorted in non-decreasing order, find two numbers such that they add up to a specific `target` number.
 
@@ -40,7 +42,9 @@ The tests are generated such that there is exactly one solution. You may not use
 }
 ```
 
-## 633\. [Sum of Square Numbers (Easy)](https://leetcode.com/problems/sum-of-square-numbers/description/)
+## 633\. Sum of Square Numbers (Easy)
+
+[LeetCode](https://leetcode.com/problems/sum-of-square-numbers/description/)
 
 Given a non-negative integer `c`, decide whether there're two integers `a` and `b` such that `a2 + b2 = c`.
 
@@ -61,8 +65,9 @@ public boolean judgeSquareSum(int c) {
 }
 ```
 
+## 345\. Reverse Vowels of a String (Easy)
 
-345\. [Reverse Vowels of a String (Easy)](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+[https://leetcode.com/problems/reverse-vowels-of-a-string/description/](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 
 Given a string `s`, reverse only all the vowels in the string and return it.
 
@@ -96,7 +101,9 @@ static public String reverseVowels(String s) {
 
 
 
-## 680\. [Valid Palindrome II (Easy)](https://leetcode.com/problems/valid-palindrome-ii/description/)
+## 680\. Valid Palindrome II (Easy)
+
+[Leetcode](https://leetcode.com/problems/valid-palindrome-ii/description/)
 
 Given a string `s`, return `true` *if the* `s` *can be palindrome after deleting **at most one** character from it*.
 
@@ -125,7 +132,9 @@ static public boolean isPalindrome(String s,int i, int j) {
 
 
 
-## 88\. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/description/)
+## 88\. Merge Sorted Array (Easy)
+
+[LeetCode](https://leetcode.com/problems/merge-sorted-array/description/)
 
 You are given two integer arrays `nums1` and `nums2`, sorted in **non-decreasing order**, and two integers `m` and `n`, representing the number of elements in `nums1` and `nums2` respectively.
 
@@ -152,7 +161,9 @@ static public void merge(int[] nums1, int m, int[] nums2, int n) {
 }
 ```
 
-## 141\. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/description/)
+## 141\. Linked List Cycle (Easy)
+
+[LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)
 
 Given `head`, the head of a linked list, determine if the linked list has a cycle in it.
 
@@ -199,7 +210,9 @@ static public boolean hasCycle(ListNode head) {
     }
 ```
 
-## 524\. [Longest Word in Dictionary through Deleting (Medium)](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
+## 524\. Longest Word in Dictionary through Deleting (Medium)
+
+[LeetCode](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
 
 Given a string `s` and a string array `dictionary`, return *the longest string in the dictionary that can be formed by deleting some of the given string characters*. If there is more than one possible result, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.
 
