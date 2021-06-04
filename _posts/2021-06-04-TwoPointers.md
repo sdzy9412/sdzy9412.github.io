@@ -160,7 +160,7 @@ Return `true` *if there is a cycle in the linked list*. Otherwise, return `false
 
 **Example:**
 
-![image-20210604194958082](C:\Users\sdzy9\AppData\Roaming\Typora\typora-user-images\image-20210604194958082.png)
+![image-20210604194958082](/images/posts/Q141.png)
 
 result: true
 
